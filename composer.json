@@ -1,0 +1,19 @@
+{
+  "name": "amirali/todo",
+  "description": "A Todo List Project",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Amirali\\Todo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "amirali-hosseini",
+      "email": "amiralihosseini1983@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}

@@ -1,0 +1,27 @@
+1 _ Users
+
+    1 _ 1 : Id
+
+    1 _ 2 : Name
+
+    1 _ 3 : Email
+
+    1 _ 4 : Password
+
+2 _ Folders
+
+    2 _ 1 : Id
+
+    2 _ 2 : UserId
+
+    2 _ 3 : Name
+
+3 _ Tasks
+
+    3 _ 1 : Id
+
+    3 _ 2 : UserId
+
+    3 _ 3 : FolderId
+
+    3 _ 4 : Name
