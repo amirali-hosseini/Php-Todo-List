@@ -1,3 +1,3 @@
-Hi Everyone. i am amirali hosseini , a back-end developer with php. this is Todo project.
+A simple todo list project with pure php.
 
-the db file is in the docs/ directory.
+You can find the database file is in the docs/ directory.
